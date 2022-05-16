@@ -1,4 +1,4 @@
-                                                 ###Project -1
+                                                 Project -1
 
 ## Implemented a Twitter Sentiment Analysis model that helps to overcome the challenges of identifying the sentiments of the tweets.
 * Performed exploratory data analysis and Data Visualization of target variable.
@@ -12,7 +12,7 @@
 * Transformed dataset using TFIDF Vectorizer and trained different Machine Learning models to determine the best accuracy and improved the results.
 
 
-                                                  ###Project-2 
+                                                  Project-2 
 
 ## Developed a model for predicting fraudulent transactions for a financial company
 * Performed data cleaning
